@@ -1,6 +1,25 @@
 # social_app
 
-A new Flutter project.
+A modern Flutter social media application built with clean architecture, responsive UI, and scalable state management.
+This project showcases real-world Flutter development patterns including authentication, posts feed, user profiles, media upload, and more.
+
+✨ Features
+
+-User Authentication (sign up, login, logout)
+
+-Create & Share Posts with text and images
+
+-Like & Comment System
+
+-User Profiles with editable details
+
+-Responsive UI for Android, iOS, and desktop
+
+-Clean Architecture (Presentation – Domain – Data)
+
+-State Management: BLoC / Cubit
+
+-REST API Integration with robust error handling
 
 ## Getting Started
 
